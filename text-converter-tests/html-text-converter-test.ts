@@ -23,7 +23,7 @@ describe('Html Text Converter', () => {
     })
 
     it('TextReader gives correct text', () => {
-        const expectedText = "Infnet\nEngenharia de Software\nRefatoracao\nProfessor: Rafael\nAluno: Rafael Brito"
+        const expectedText = "Matéria: Refatoração\nProfessor: Rafael Cruz\nAluno: Rafael Brito"
         expect(textReader.getText()).to.equal(expectedText)
     })
 

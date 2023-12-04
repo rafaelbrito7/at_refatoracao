@@ -1,5 +1,3 @@
-Infnet
-Engenharia de Software
-Refatoracao
-Professor: Rafael
+Matéria: Refatoração
+Professor: Rafael Cruz
 Aluno: Rafael Brito

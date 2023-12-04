@@ -1,5 +1,5 @@
 // Constants for magic numbers to improve readability and maintainability
-const CONNECTION_SUCCESS_THRESHOLD = 8;
+
 
 // This interface adheres to the Single Responsibility Principle (SRP) by defining a single responsibility - simulating connection events.
 export interface IConnectionEventSimulator {

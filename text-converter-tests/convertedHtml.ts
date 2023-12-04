@@ -1,1 +1,1 @@
-export const convertedText = "Infnet<br />Engenharia de Software<br />Refatoracao<br />Professor: Rafael<br />Aluno: Rafael Brito"
+export const convertedText = "Matéria: Refatoração<br />Professor: Rafael Cruz<br />Aluno: Rafael Brito"
